@@ -1,0 +1,9 @@
+/* MEDIA QUERIES FOR 576PX AND ABOVE */
+/* Only use the breakpoint necessary to your project */
+@media all and (min-width:576px) {}
+
+@media all and (min-width:768px) {}
+
+@media all and (min-width:992px) {}
+
+@media all and (min-width:1200px) {}
